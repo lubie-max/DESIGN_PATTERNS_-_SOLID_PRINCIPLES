@@ -1,0 +1,9 @@
+
+Problem Statement -> Design a Bird
+-  Create a system which tracks all type of birds
+with respective of their attributes and behaviors
+
+
+Approach ->
+
+we can create a class
