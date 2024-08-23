@@ -6,4 +6,13 @@ with respective of their attributes and behaviors
 
 Approach ->
 
-we can create a class
+we can create a class named Bird
+which will consist several methods and attributes
+like
+attributes -> age , color , weight , type etc., and
+methods/behaviors -> fly() , makeSound() , eat() etc.
+
+Problem in this Approach ->
+let's say fly() method,  we can define the flying altitude of a bird based on its type.
+what would happen
+for every object of bird / for type of bird we will have to create if else condition.
