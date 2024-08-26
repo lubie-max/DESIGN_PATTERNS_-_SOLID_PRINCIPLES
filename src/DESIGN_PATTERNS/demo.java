@@ -1,2 +1,4 @@
-package DESIGN_PATTERNS.Singleton;public class demo {
+package DESIGN_PATTERNS;
+
+public class demo {
 }
